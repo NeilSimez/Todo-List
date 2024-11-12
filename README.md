@@ -100,7 +100,7 @@ Para instalar y ejecutar este proyecto en tu entorno local:
 
 ## 👨‍💻 Autor
 
-Creado por **Neilsimez**. Puedes contactarme en [tu-email@dominio.com] o en mis redes sociales.
+Creado por **Neilsimez**
 
 ## 📝 Licencia
 
